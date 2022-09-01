@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Horhluy
 - 👀 I’m interested in cloud security and frontend development
 - 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate and open for work
 - 📫 How to reach me...
 
 <!---
